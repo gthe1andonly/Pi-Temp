@@ -16,7 +16,7 @@ import email
 
 # wiringpi numbers  
 
-import wiringpi2 as wiringpi
+import wiringpi as wiringpi
 
 wiringpi.wiringPiSetup()
 
